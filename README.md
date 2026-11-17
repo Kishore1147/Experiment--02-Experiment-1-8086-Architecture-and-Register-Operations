@@ -186,7 +186,8 @@ Part (b)
 
 
 Part (c)
-<img width="1535" height="770" alt="Screenshot 2026-11-17 210422" src="https://github.com/user-attachments/assets/0ddebdd1-e501-4304-8f66-b7418ad2f555" />
+<img width="1535" height="770" alt="Screenshot 2026-11-17 210422" src="https://github.com/user-attachments/assets/56e0643f-6e57-4780-ab2c-d4d2db118499" />
+
 
 
 ## Result
